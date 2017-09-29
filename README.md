@@ -6,6 +6,12 @@ PAYMILL extension for Magento compatible with: 1.5, 1.6, 1.6.1, 1.6.2.0, 1.7, 1.
 ##### Note: This is an all new version of the PAYMILL Magento Extension. 
 This extension is fully and actively maintained by Paymill's Official Partner [IMB sh.p.k](http://www.imb.al/en/)(contact mailto:magento@imb.al).
 
+
+
+
+
+
+
 ## Your Advantages
 * PCI DSS compatibility
 * Payment means: Credit Card (Visa, Visa Electron, Mastercard, Maestro, Diners, Discover, JCB, AMEX), Direct Debit (ELV)
